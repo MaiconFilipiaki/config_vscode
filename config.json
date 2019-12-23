@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "Fira Code bold, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "400",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#212121",
+        "editor.background": "#212121",
+        "badge.background": "#212121",
+        "breadcrumb.background": "#212121",
+        "debugToolBar.background": "#212121",
+        "dropdown.background": "#212121",
+        "menu.background": "#212121",
+        "sideBar.background": "#212121"
+    },
+    "explorer.confirmDragAndDrop": false
+}
